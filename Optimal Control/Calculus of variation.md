@@ -17,13 +17,17 @@ a &= b + c \\
 $$
    E = mc^2
 $$
-\[\begin{aligned}
-x^2 
-\end{aligned}\]
+$$
+\begin{aligned}
+x^2  
+\end{aligned}
+$$
 $$x^2 $$
+
+
 ## Hamilton Jacobi Bellman Equation
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTMwMTQyNywxODk3MTAxMDU3LDM0MT
-I2MjgzOCwxMTcxNDg4MDkzXX0=
+eyJoaXN0b3J5IjpbLTIwMjg4MDY0OTcsMTUyNTMwMTQyNywxOD
+k3MTAxMDU3LDM0MTI2MjgzOCwxMTcxNDg4MDkzXX0=
 -->
