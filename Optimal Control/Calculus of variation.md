@@ -12,7 +12,7 @@ renderMathInElement(document.body, {
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-\begin{alinged}
+\begin{aligned}
 a &= b + c \\
   &= e + f
 \end{aligned}
@@ -22,7 +22,7 @@ $$
 $$
 $$
 \begin{aligned}
-x^2  
+x^2  \tag{1}
 \end{aligned}
 $$
 $$x^2 $$
@@ -31,7 +31,7 @@ $$x^2 $$
 ## Hamilton Jacobi Bellman Equation
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIxMDQ5NDksLTE2NjAxMjc0MzQsMT
-UyNTMwMTQyNywxODk3MTAxMDU3LDM0MTI2MjgzOCwxMTcxNDg4
-MDkzXX0=
+eyJoaXN0b3J5IjpbLTEyODUzODkwMiwtMTY2MDEyNzQzNCwxNT
+I1MzAxNDI3LDE4OTcxMDEwNTcsMzQxMjYyODM4LDExNzE0ODgw
+OTNdfQ==
 -->
