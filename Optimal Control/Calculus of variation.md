@@ -8,6 +8,9 @@ renderMathInElement(document.body, {
   ]
 });
 </script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 \begin{alinged}
 a &= b + c \\
@@ -28,6 +31,7 @@ $$x^2 $$
 ## Hamilton Jacobi Bellman Equation
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAxMjc0MzQsMTUyNTMwMTQyNywxOD
-k3MTAxMDU3LDM0MTI2MjgzOCwxMTcxNDg4MDkzXX0=
+eyJoaXN0b3J5IjpbLTE5ODIxMDQ5NDksLTE2NjAxMjc0MzQsMT
+UyNTMwMTQyNywxODk3MTAxMDU3LDM0MTI2MjgzOCwxMTcxNDg4
+MDkzXX0=
 -->
