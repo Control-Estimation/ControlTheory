@@ -15,7 +15,7 @@ a &= b + c \\
 \end{aligned}
 ## Calculus of Variation
 $$
-   E = mc^2
+   E = mc^2 \tag{1}
 $$
 $$
 \begin{aligned}
@@ -28,6 +28,6 @@ $$x^2 $$
 ## Hamilton Jacobi Bellman Equation
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg4MDY0OTcsMTUyNTMwMTQyNywxOD
+eyJoaXN0b3J5IjpbLTE2NjAxMjc0MzQsMTUyNTMwMTQyNywxOD
 k3MTAxMDU3LDM0MTI2MjgzOCwxMTcxNDg4MDkzXX0=
 -->
