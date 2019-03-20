@@ -7,6 +7,7 @@ MathJax.Hub.Config({
 
 
 ## Calculus of Variation
+$$
 \begin{equation}
    E = mc^2
 \end{equation}
@@ -17,6 +18,6 @@ $$x^2 $$
 ## Hamilton Jacobi Bellman Equation
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzEwMTA1NywzNDEyNjI4MzgsMTE3MT
-Q4ODA5M119
+eyJoaXN0b3J5IjpbMjEzNDMzODczNSwxODk3MTAxMDU3LDM0MT
+I2MjgzOCwxMTcxNDg4MDkzXX0=
 -->
