@@ -5,20 +5,21 @@ MathJax.Hub.Config({
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
-
+\begin{alinged}
+a &= b + c \\
+  &= e + f
+\end{aligned}
 ## Calculus of Variation
-\[
-\begin{equation}
+$$
    E = mc^2
-\end{equation}
-\]
-\[\begin{align}
+$$
+\[\begin{aligned}
 x^2 
-\end{align}\]
+\end{aligned}\]
 $$x^2 $$
 ## Hamilton Jacobi Bellman Equation
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTMwMzc2NywxODk3MTAxMDU3LDM0MT
-I2MjgzOCwxMTcxNDg4MDkzXX0=
+eyJoaXN0b3J5IjpbLTE3Nzk5MTYwNjQsMTg5NzEwMTA1NywzND
+EyNjI4MzgsMTE3MTQ4ODA5M119
 -->
